@@ -15,8 +15,8 @@ enableForwardedWhitelist: false
 basicAuthMode: false
 # Basic authentication credentials
 basicAuthUser:
-  username: "user"
-  password: "Chuckles-Darkly"
+  username: ""
+  password: ""
 # Enables CORS proxy middleware
 enableCorsProxy: false
 # Enable multi-user mode
