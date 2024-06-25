@@ -12,7 +12,7 @@ whitelistMode: false
 # Whitelist will also verify IP in X-Forwarded-For / X-Real-IP headers
 enableForwardedWhitelist: false
 # Toggle basic authentication for endpoints
-basicAuthMode: true
+basicAuthMode: false
 # Basic authentication credentials
 basicAuthUser:
   username: "user"
